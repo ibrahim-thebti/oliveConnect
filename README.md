@@ -156,4 +156,4 @@ The next steps will be to:
 **OliveConnect – Smart Management for Olive Harvesting**
 
 *Academic Project – Advanced Design Methodology & XML*  
-*Academic Year: 2026 – 2027*
+*Academic Year : 2026 – 2027*
